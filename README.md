@@ -1,3 +1,3 @@
 # Quantum Computing
 
-All quantum computing projects and learning paths.
+Repo for Quantum Computing Learning Paths.
